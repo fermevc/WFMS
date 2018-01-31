@@ -1,0 +1,19 @@
+{
+  "name": "workforcemanagement",
+  "version": "1.0.0",
+  "description": "Work force management app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fermevc/WFMS.git"
+  },
+  "author": "Igor Fermevc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fermevc/WFMS/issues"
+  },
+  "homepage": "https://github.com/fermevc/WFMS#readme"
+}
